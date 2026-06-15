@@ -4,3 +4,26 @@
 - 🌱 I’m currently learning ...
 - pronouns: ela/dela
   
+<div>
+  <a href="https://beacons.ai/larissamourrao">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larissamourrao&show_icons=true&theme=dracula&include_all_commits=falsi&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissamourrao&layout=compact&langs_count=16&theme=dracula"/>
+  </a>
+</div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="larissa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+
+##
+
+<div>
+
+  <a href="https://instagram.com/larissamourrao" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+
+  <a href="https://www.linkedin.com/in/larissa-mourão-3546063a4/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+</div>
