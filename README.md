@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Larissa Mourão 
 
 - 🔭 Hoje sou estudante de Engenharia de Software 
-- 🌱 I’m currently learning ...
+- 🌱Estou aprendendo Python e muito mais!
 - pronouns: ela/dela
   
 <div>
